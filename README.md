@@ -4,10 +4,10 @@ Este guia mostra como instalar e usar o AprilTag no ROS 2 para detecção de tag
 
 📋 Pré-requisitos
 
-Ubuntu 22.04 (Jammy)
+- Ubuntu 22.04 (Jammy)
 
-ROS 2 Humble
+- ROS 2 Humble
 
-Webcam USB
+- Webcam USB
 
-Python 3.8+
+- Python 3.8+
