@@ -1,9 +1,0 @@
-/home/fbot/ros2_ws/build/my_apriltag_test/CMakeFiles/uninstall.dir
-/home/fbot/ros2_ws/build/my_apriltag_test/CMakeFiles/my_apriltag_test_uninstall.dir
-/home/fbot/ros2_ws/build/my_apriltag_test/CMakeFiles/test.dir
-/home/fbot/ros2_ws/build/my_apriltag_test/CMakeFiles/edit_cache.dir
-/home/fbot/ros2_ws/build/my_apriltag_test/CMakeFiles/rebuild_cache.dir
-/home/fbot/ros2_ws/build/my_apriltag_test/CMakeFiles/list_install_components.dir
-/home/fbot/ros2_ws/build/my_apriltag_test/CMakeFiles/install.dir
-/home/fbot/ros2_ws/build/my_apriltag_test/CMakeFiles/install/local.dir
-/home/fbot/ros2_ws/build/my_apriltag_test/CMakeFiles/install/strip.dir
