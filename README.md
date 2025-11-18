@@ -11,3 +11,6 @@ Este guia mostra como instalar e usar o AprilTag no ROS 2 para detecção de tag
 - Webcam USB
 
 - Python 3.8+
+
+  mkdir -p ~/ros2_ws/src
+  cd ~/ros2_ws
