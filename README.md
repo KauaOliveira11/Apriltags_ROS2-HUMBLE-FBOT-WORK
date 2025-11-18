@@ -12,7 +12,7 @@ Este guia mostra como instalar e usar o AprilTag no ROS 2 para detecção de tag
 
 - Python 3.8+
 ```ruby
-mkdir -p ~/ros2_ws/src
+  mkdir -p ~/ros2_ws/src
   cd ~/ros2_ws
 ```
   
