@@ -1,0 +1,15 @@
+/home/fbot/ros2_ws/install/my_apriltag_test/share/ament_index/resource_index/package_run_dependencies/my_apriltag_test
+/home/fbot/ros2_ws/install/my_apriltag_test/share/ament_index/resource_index/parent_prefix_path/my_apriltag_test
+/home/fbot/ros2_ws/install/my_apriltag_test/share/my_apriltag_test/environment/ament_prefix_path.sh
+/home/fbot/ros2_ws/install/my_apriltag_test/share/my_apriltag_test/environment/ament_prefix_path.dsv
+/home/fbot/ros2_ws/install/my_apriltag_test/share/my_apriltag_test/environment/path.sh
+/home/fbot/ros2_ws/install/my_apriltag_test/share/my_apriltag_test/environment/path.dsv
+/home/fbot/ros2_ws/install/my_apriltag_test/share/my_apriltag_test/local_setup.bash
+/home/fbot/ros2_ws/install/my_apriltag_test/share/my_apriltag_test/local_setup.sh
+/home/fbot/ros2_ws/install/my_apriltag_test/share/my_apriltag_test/local_setup.zsh
+/home/fbot/ros2_ws/install/my_apriltag_test/share/my_apriltag_test/local_setup.dsv
+/home/fbot/ros2_ws/install/my_apriltag_test/share/my_apriltag_test/package.dsv
+/home/fbot/ros2_ws/install/my_apriltag_test/share/ament_index/resource_index/packages/my_apriltag_test
+/home/fbot/ros2_ws/install/my_apriltag_test/share/my_apriltag_test/cmake/my_apriltag_testConfig.cmake
+/home/fbot/ros2_ws/install/my_apriltag_test/share/my_apriltag_test/cmake/my_apriltag_testConfig-version.cmake
+/home/fbot/ros2_ws/install/my_apriltag_test/share/my_apriltag_test/package.xml

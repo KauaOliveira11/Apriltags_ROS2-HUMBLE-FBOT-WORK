@@ -1,0 +1,39 @@
+[0.006s] Invoking command in '/home/fbot/ros2_ws/build/apriltag_ros': CMAKE_PREFIX_PATH=/home/fbot/ros2_ws/install/apriltag:/opt/ros/humble LD_LIBRARY_PATH=/home/fbot/ros2_ws/install/apriltag/lib:${LD_LIBRARY_PATH} PATH=/home/fbot/ros2_ws/install/apriltag/bin:${PATH} PKG_CONFIG_PATH=/home/fbot/ros2_ws/install/apriltag/lib/x86_64-linux-gnu/pkgconfig:/home/fbot/ros2_ws/install/apriltag/lib/pkgconfig PYTHONPATH=/home/fbot/ros2_ws/install/apriltag/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/fbot/ros2_ws/build/apriltag_ros -- -j12 -l12
+[0.034s] [35m[1mConsolidate compiler generated dependencies of target tags[0m
+[0.035s] [35m[1mConsolidate compiler generated dependencies of target conversion[0m
+[0.035s] [35m[1mConsolidate compiler generated dependencies of target apriltag_node[0m
+[0.043s] [ 20%] Built target tags
+[0.044s] [ 40%] Built target conversion
+[0.045s] [ 60%] Built target apriltag_node
+[0.051s] [35m[1mConsolidate compiler generated dependencies of target pose_estimation[0m
+[0.061s] [ 80%] Built target pose_estimation
+[0.069s] [35m[1mConsolidate compiler generated dependencies of target AprilTagNode[0m
+[0.081s] [100%] Built target AprilTagNode
+[0.090s] Invoked command in '/home/fbot/ros2_ws/build/apriltag_ros' returned '0': CMAKE_PREFIX_PATH=/home/fbot/ros2_ws/install/apriltag:/opt/ros/humble LD_LIBRARY_PATH=/home/fbot/ros2_ws/install/apriltag/lib:${LD_LIBRARY_PATH} PATH=/home/fbot/ros2_ws/install/apriltag/bin:${PATH} PKG_CONFIG_PATH=/home/fbot/ros2_ws/install/apriltag/lib/x86_64-linux-gnu/pkgconfig:/home/fbot/ros2_ws/install/apriltag/lib/pkgconfig PYTHONPATH=/home/fbot/ros2_ws/install/apriltag/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/fbot/ros2_ws/build/apriltag_ros -- -j12 -l12
+[0.091s] Invoking command in '/home/fbot/ros2_ws/build/apriltag_ros': CMAKE_PREFIX_PATH=/home/fbot/ros2_ws/install/apriltag:/opt/ros/humble LD_LIBRARY_PATH=/home/fbot/ros2_ws/install/apriltag/lib:${LD_LIBRARY_PATH} PATH=/home/fbot/ros2_ws/install/apriltag/bin:${PATH} PKG_CONFIG_PATH=/home/fbot/ros2_ws/install/apriltag/lib/x86_64-linux-gnu/pkgconfig:/home/fbot/ros2_ws/install/apriltag/lib/pkgconfig PYTHONPATH=/home/fbot/ros2_ws/install/apriltag/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/cmake --install /home/fbot/ros2_ws/build/apriltag_ros
+[0.096s] -- Install configuration: ""
+[0.096s] -- Up-to-date: /home/fbot/ros2_ws/install/apriltag_ros/lib/apriltag_ros/apriltag_node
+[0.097s] -- Up-to-date: /home/fbot/ros2_ws/install/apriltag_ros/share/apriltag_ros/environment/library_path.sh
+[0.097s] -- Up-to-date: /home/fbot/ros2_ws/install/apriltag_ros/share/apriltag_ros/environment/library_path.dsv
+[0.097s] -- Up-to-date: /home/fbot/ros2_ws/install/apriltag_ros/lib/libAprilTagNode.so
+[0.097s] -- Up-to-date: /home/fbot/ros2_ws/install/apriltag_ros/share/apriltag_ros/cfg
+[0.097s] -- Up-to-date: /home/fbot/ros2_ws/install/apriltag_ros/share/apriltag_ros/cfg/tags_36h11.yaml
+[0.097s] -- Up-to-date: /home/fbot/ros2_ws/install/apriltag_ros/share/apriltag_ros/launch
+[0.097s] -- Up-to-date: /home/fbot/ros2_ws/install/apriltag_ros/share/apriltag_ros/launch/camera_36h11.launch.yml
+[0.097s] -- Up-to-date: /home/fbot/ros2_ws/install/apriltag_ros/share/ament_index/resource_index/package_run_dependencies/apriltag_ros
+[0.097s] -- Up-to-date: /home/fbot/ros2_ws/install/apriltag_ros/share/ament_index/resource_index/parent_prefix_path/apriltag_ros
+[0.097s] -- Up-to-date: /home/fbot/ros2_ws/install/apriltag_ros/share/apriltag_ros/environment/ament_prefix_path.sh
+[0.097s] -- Up-to-date: /home/fbot/ros2_ws/install/apriltag_ros/share/apriltag_ros/environment/ament_prefix_path.dsv
+[0.097s] -- Up-to-date: /home/fbot/ros2_ws/install/apriltag_ros/share/apriltag_ros/environment/path.sh
+[0.097s] -- Up-to-date: /home/fbot/ros2_ws/install/apriltag_ros/share/apriltag_ros/environment/path.dsv
+[0.097s] -- Up-to-date: /home/fbot/ros2_ws/install/apriltag_ros/share/apriltag_ros/local_setup.bash
+[0.097s] -- Up-to-date: /home/fbot/ros2_ws/install/apriltag_ros/share/apriltag_ros/local_setup.sh
+[0.097s] -- Up-to-date: /home/fbot/ros2_ws/install/apriltag_ros/share/apriltag_ros/local_setup.zsh
+[0.098s] -- Up-to-date: /home/fbot/ros2_ws/install/apriltag_ros/share/apriltag_ros/local_setup.dsv
+[0.098s] -- Installing: /home/fbot/ros2_ws/install/apriltag_ros/share/apriltag_ros/package.dsv
+[0.098s] -- Up-to-date: /home/fbot/ros2_ws/install/apriltag_ros/share/ament_index/resource_index/packages/apriltag_ros
+[0.098s] -- Up-to-date: /home/fbot/ros2_ws/install/apriltag_ros/share/ament_index/resource_index/rclcpp_components/apriltag_ros
+[0.098s] -- Up-to-date: /home/fbot/ros2_ws/install/apriltag_ros/share/apriltag_ros/cmake/apriltag_rosConfig.cmake
+[0.098s] -- Up-to-date: /home/fbot/ros2_ws/install/apriltag_ros/share/apriltag_ros/cmake/apriltag_rosConfig-version.cmake
+[0.098s] -- Up-to-date: /home/fbot/ros2_ws/install/apriltag_ros/share/apriltag_ros/package.xml
+[0.099s] Invoked command in '/home/fbot/ros2_ws/build/apriltag_ros' returned '0': CMAKE_PREFIX_PATH=/home/fbot/ros2_ws/install/apriltag:/opt/ros/humble LD_LIBRARY_PATH=/home/fbot/ros2_ws/install/apriltag/lib:${LD_LIBRARY_PATH} PATH=/home/fbot/ros2_ws/install/apriltag/bin:${PATH} PKG_CONFIG_PATH=/home/fbot/ros2_ws/install/apriltag/lib/x86_64-linux-gnu/pkgconfig:/home/fbot/ros2_ws/install/apriltag/lib/pkgconfig PYTHONPATH=/home/fbot/ros2_ws/install/apriltag/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/cmake --install /home/fbot/ros2_ws/build/apriltag_ros

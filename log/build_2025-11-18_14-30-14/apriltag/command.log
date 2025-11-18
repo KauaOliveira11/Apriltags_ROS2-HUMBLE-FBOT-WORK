@@ -1,0 +1,6 @@
+Invoking command in '/home/fbot/ros2_ws/build/apriltag': /usr/bin/cmake /home/fbot/ros2_ws/src/apriltag -DCMAKE_INSTALL_PREFIX=/home/fbot/ros2_ws/install/apriltag
+Invoked command in '/home/fbot/ros2_ws/build/apriltag' returned '0': /usr/bin/cmake /home/fbot/ros2_ws/src/apriltag -DCMAKE_INSTALL_PREFIX=/home/fbot/ros2_ws/install/apriltag
+Invoking command in '/home/fbot/ros2_ws/build/apriltag': /usr/bin/cmake --build /home/fbot/ros2_ws/build/apriltag -- -j12 -l12
+Invoked command in '/home/fbot/ros2_ws/build/apriltag' returned '0': /usr/bin/cmake --build /home/fbot/ros2_ws/build/apriltag -- -j12 -l12
+Invoking command in '/home/fbot/ros2_ws/build/apriltag': /usr/bin/cmake --install /home/fbot/ros2_ws/build/apriltag
+Invoked command in '/home/fbot/ros2_ws/build/apriltag' returned '0': /usr/bin/cmake --install /home/fbot/ros2_ws/build/apriltag

@@ -1,0 +1,97 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-4300231194a1cd62a2e3.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "apriltag",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "apriltag::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apriltag-Release-3b2274d4740383b58b6e.json",
+					"name" : "apriltag",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apriltag.cpython-310-x86_64-linux-gnu::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apriltag.cpython-310-x86_64-linux-gnu-Release-efc6b72889846b8c47d0.json",
+					"name" : "apriltag.cpython-310-x86_64-linux-gnu",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apriltag_demo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apriltag_demo-Release-711bb3b05083f91287f2.json",
+					"name" : "apriltag_demo",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apriltag_py_docstrings::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apriltag_py_docstrings-Release-42079a299443fa3f9797.json",
+					"name" : "apriltag_py_docstrings",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_demo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_demo-Release-e4f41ea23c5fa07dc352.json",
+					"name" : "opencv_demo",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/fbot/ros2_ws/build/apriltag",
+		"source" : "/home/fbot/ros2_ws/src/apriltag"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
