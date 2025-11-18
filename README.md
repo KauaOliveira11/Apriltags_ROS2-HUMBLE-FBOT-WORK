@@ -19,12 +19,12 @@ Primeiro vamos criar a worksapce para colocar os pacotes
 ```
 Agora vamos clonar os repositorios que vamos utilizar para fazer as tags funcionarem
 
-'''ruby
-  cd ~/ros2_ws/src
+```ruby
+   cd ~/ros2_ws/src
   
   # Biblioteca principal AprilTag
   git clone https://github.com/AprilRobotics/apriltag.git
   
   # Wrapper ROS 2
   git clone https://github.com/christianrauch/apriltag_ros.git
-'''
+```
