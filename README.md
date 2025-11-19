@@ -34,15 +34,17 @@ Instalar dependencias
 ```ruby
   cd ~/ros2_ws
   
-  # Dependências do sistema
+  #Dependências do sistema
   sudo apt update
   sudo apt install libopencv-dev python3-opencv libeigen3-dev
   
-  # Dependências ROS 2
+  #Dependências ROS 2
   sudo apt install ros-humble-vision-opencv ros-humble-image-transport \
                    ros-humble-camera-calibration-parsers ros-humble-usb-cam
   #instalar o rosdep
   sudo apt-get install python3-rosdep
+  sudo rosdep init
+  sudo rosdep update
 
   # Instalar dependências com rosdep
   rosdep install --from-paths src --ignore-src -y
