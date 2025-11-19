@@ -1,6 +1,6 @@
 # AprilTag ROS 2 - Guia Completo de Instalação e Uso
 
-Este guia mostra como instalar e usar o AprilTag no ROS 2 para detecção de tags fiduciais.
+Este guia mostra como instalar e usar a detecção das AprilTag no ROS 2  
 Repositorio de referencia 
 https://github.com/christianrauch/apriltag_ros
 
