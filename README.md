@@ -41,7 +41,9 @@ Instalar dependencias
   # Dependências ROS 2
   sudo apt install ros-humble-vision-opencv ros-humble-image-transport \
                    ros-humble-camera-calibration-parsers ros-humble-usb-cam
-  
+  #instalar o rosdep
+  sudo apt-get install python3-rosdep
+
   # Instalar dependências com rosdep
   rosdep install --from-paths src --ignore-src -y
 ```
