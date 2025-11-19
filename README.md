@@ -43,3 +43,10 @@ Instalar dependencias
   # Instalar dependências com rosdep
   rosdep install --from-paths src --ignore-src -y
 ```
+Compilar e verificar se esta certo
+```ruby
+  cd ~/ros2_ws
+  colcon build --packages-select apriltag
+  colcon build --packages-select apriltag_ros
+  source install/setup.bash
+```
