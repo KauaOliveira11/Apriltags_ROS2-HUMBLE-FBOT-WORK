@@ -59,3 +59,14 @@ TERMINAL 1
     -p video_device:="/dev/video0" \
     -p image_width:=640 \
     -p image_height:=480
+```
+TERMINAL 2
+```ruby
+  cd ~/ros2_ws
+  source install/setup.bash
+  ros2 run apriltag_ros apriltag_node --ros-args \
+    -r image_rect:=/image_raw \
+    -r camera_info:=/camera_info \
+    -p family:=36h11 \
+    -p size:=0.1
+```
