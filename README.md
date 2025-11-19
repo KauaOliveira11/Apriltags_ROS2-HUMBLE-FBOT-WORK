@@ -50,3 +50,12 @@ Compilar e verificar se esta certo
   colcon build --packages-select apriltag_ros
   source install/setup.bash
 ```
+# Teste Basico de funcionamento
+TERMINAL 1
+```ruby
+  cd ~/ros2_ws
+  source install/setup.bash
+  ros2 run usb_cam usb_cam_node_exe --ros-args \
+    -p video_device:="/dev/video0" \
+    -p image_width:=640 \
+    -p image_height:=480
