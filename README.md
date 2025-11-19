@@ -30,16 +30,16 @@ Agora vamos clonar os repositorios que vamos utilizar para fazer as tags funcion
 ```
 Instalar dependencias
 ```ruby
-cd ~/ros2_ws
-
-# Dependências do sistema
-sudo apt update
-sudo apt install libopencv-dev python3-opencv libeigen3-dev
-
-# Dependências ROS 2
-sudo apt install ros-humble-vision-opencv ros-humble-image-transport \
-                 ros-humble-camera-calibration-parsers ros-humble-usb-cam
-
-# Instalar dependências com rosdep
-rosdep install --from-paths src --ignore-src -y
+  cd ~/ros2_ws
+  
+  # Dependências do sistema
+  sudo apt update
+  sudo apt install libopencv-dev python3-opencv libeigen3-dev
+  
+  # Dependências ROS 2
+  sudo apt install ros-humble-vision-opencv ros-humble-image-transport \
+                   ros-humble-camera-calibration-parsers ros-humble-usb-cam
+  
+  # Instalar dependências com rosdep
+  rosdep install --from-paths src --ignore-src -y
 ```
