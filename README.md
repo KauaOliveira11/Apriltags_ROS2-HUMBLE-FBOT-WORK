@@ -52,6 +52,7 @@ Compilar e verificar se esta certo
 ```
 # Teste Basico de funcionamento
 TERMINAL 1
+Aqui vamos rodar o no de funcionamento da camera
 ```ruby
   cd ~/ros2_ws
   source install/setup.bash
@@ -61,6 +62,7 @@ TERMINAL 1
     -p image_height:=480
 ```
 TERMINAL 2
+Rodar o no de detectacao das Apriltags
 ```ruby
   cd ~/ros2_ws
   source install/setup.bash
@@ -71,6 +73,7 @@ TERMINAL 2
     -p size:=0.1
 ```
 TERMINAL 3 
+Monitorar o topico aonde esta sendo publicado as Apriltags
 ```ruby
   cd ~/ros2_ws
   source install/setup.bash
