@@ -70,3 +70,9 @@ TERMINAL 2
     -p family:=36h11 \
     -p size:=0.1
 ```
+TERMINAL 3 
+```ruby
+  cd ~/ros2_ws
+  source install/setup.bash
+  ros2 topic echo /detections
+```
