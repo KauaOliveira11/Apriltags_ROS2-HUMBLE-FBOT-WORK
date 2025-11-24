@@ -54,14 +54,14 @@ Compilar e verificar se esta certo
   cd ~/ros2_ws
   colcon build --packages-select apriltag
   colcon build --packages-select apriltag_ros
-  source install/setup.bash
+  source install/setup.zsh
 ```
 # Teste Basico de funcionamento
 TERMINAL 1
 Aqui vamos rodar o no de funcionamento da camera
 ```ruby
   cd ~/ros2_ws
-  source install/setup.bash
+  source install/setup.zsh
   ros2 run usb_cam usb_cam_node_exe --ros-args \
     -p video_device:="/dev/video0" \
     -p image_width:=640 \
@@ -71,7 +71,7 @@ TERMINAL 2
 Rodar o no de detectacao das Apriltags
 ```ruby
   cd ~/ros2_ws
-  source install/setup.bash
+  source install/setup.zsh
   ros2 run apriltag_ros apriltag_node --ros-args \
     -r image_rect:=/image_raw \
     -r camera_info:=/camera_info \
@@ -82,6 +82,6 @@ TERMINAL 3
 Monitorar o topico aonde esta sendo publicado as Apriltags
 ```ruby
   cd ~/ros2_ws
-  source install/setup.bash
+  source install/setup.zsh
   ros2 topic echo /detections
 ```
